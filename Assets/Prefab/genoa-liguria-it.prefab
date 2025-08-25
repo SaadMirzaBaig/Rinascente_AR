@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2691475446275754557
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -6392586301789205805, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_Name
+      value: Green_Building
+      objectReference: {fileID: 0}
+    - target: {fileID: -6392586301789205805, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -5947002039115301541, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -5401336606735930897, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_Name
+      value: Green Building 01
+      objectReference: {fileID: 0}
+    - target: {fileID: -5401336606735930897, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4813160072655018797, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4439990893149911084, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 28.272999
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 28.273
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 28.272999
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.858973
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.5999999
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 73.75896
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9238794
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.38268375
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 315
+      objectReference: {fileID: 0}
+    - target: {fileID: -3910990755373119420, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1312684030932220445, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2672732072622107398, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735349232103609875, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_Name
+      value: Yellow_Building 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735349232103609875, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6392074279298407094, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_Name
+      value: Yellow_Building
+      objectReference: {fileID: 0}
+    - target: {fileID: 6392074279298407094, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8771091787928289351, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_Name
+      value: genoa-liguria-it
+      objectReference: {fileID: 0}
+    - target: {fileID: 8771091787928289351, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: -4161369568681901532, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}

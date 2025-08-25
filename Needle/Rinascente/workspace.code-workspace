@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "Needle Engine",
+      "path": "./node_modules/@needle-tools/engine"
+    },
+    {
+      "name": "needle.hotspots",
+      "path": "node_modules/needle.hotspots",
+      "@needle:managed": true
+    }
+  ],
+  "settings": {
+    "window.title": "Rinascente",
+    "files.exclude": {
+      "**/.DS_Store": true,
+      "**/*.meta": true
+    }
+  }
+}

@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 2194a9d25e9998b41af1d5533f1319e8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SKP_Buildings Context_4f7a5250
+    second: {fileID: 2100000, guid: a71f22734fecd48489ae25b9c4681428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SKP_Green_4f7a5250
+    second: {fileID: 2100000, guid: 421e9150c65a18c478d8bc43245a5c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SKP_Orange_4f7a5250
+    second: {fileID: 2100000, guid: 4c9c1bc51f79245408163bad6d5a2fe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SKP_Wooden Base_4f7a5250
+    second: {fileID: 2100000, guid: f7b03d4c239c01544bb5e10238df955f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SKP_azure_4f7a5250
+    second: {fileID: 2100000, guid: 96f119ce429257c41af0e10ada5799a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SKP_yellow_4f7a5250
+    second: {fileID: 2100000, guid: a6f211b0b578ca1459d22995a11d09de, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>EasternGraphics GmbH EGEO [1.3.0]
+
+    <b>Version:
+    </b>2.0
+
+    
+
+    <b>Extras: </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -8303418292452120694, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+  - {fileID: -3552977492755565815, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+  - {fileID: -163777173477720869, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+  - {fileID: -5567629322296365634, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+  - {fileID: 7592320693590279887, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+  - {fileID: -1109483709116323196, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+  textures:
+  - {fileID: 6983701643236107813, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions:
+  - name: KHR_texture_transform
+    supported: 1
+    used: 1
+    required: 1
+  _textures:
+  - texture: {fileID: 6983701643236107813, guid: 2194a9d25e9998b41af1d5533f1319e8, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Scene
+  _importPlugins: []
